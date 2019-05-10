@@ -1,0 +1,8 @@
+notas:
+descargar driver: https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+Los keywords son sensibles al tab
+Ejemplos
+Log ${code} : con solo un espacio no es reconocido Log
+Log		${code} : con tab ya es reconocido Log
+
